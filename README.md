@@ -1,5 +1,7 @@
 # CAPTCHA
+![heading]
 #### What is CAPTCHA?
+--------
 
 **CAPTCHA** is an acronym for the “Completely Automated Public Turing test to tell Computers and Humans Apart”. A CAPTCHA test is designed to differentiate if an online user is really a human or an automated user, such as a bot. Although they are designed to block bots, CAPTCHAs are themselves automated. They're programmed to pop up in various websites, and they automatically pass or fail users based on their result to the test. These tests are relatively easier for human users than bots. For example, identifying distorted letters or numbers, or clicking in a specific area.
 
